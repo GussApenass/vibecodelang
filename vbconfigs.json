@@ -1,0 +1,8 @@
+{
+  "commands": {
+    "dev": "vibecoded examples/basics.vb",
+    "start": "vibecoded examples/functions_loops.vb"
+  },
+  "strictMode": true,
+  "allowImplicitTypes": false
+}
